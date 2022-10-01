@@ -1,16 +1,3 @@
-##  Music🎵 player with Emotion😂😥😡😱 Recognition   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/LICENSE)
-
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
-
-### [Full Tutorial here](https://www.youtube.com/playlist?list=PLsT53VV2LIIFWgFtLCME6cXT6pUlouN8K)
-
-### Code Requirements
-- Tensorflow
-- Download my repository
-- Own Expression dataset(NOTE: You can downlaod expression images from google, or you can record your video make diffrent expression ,and converts into Grayscale images(For more accurate prediction))
-- Song dataset
-
 
 ### What steps you have to follow??
 - Download my repository 
@@ -26,34 +13,6 @@
   and replace your server URL with my URL
 - That's all 
 
-### How it works? See:) FREE VERSION WITHOUT GUI
-
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Emotion_recognition_Music_player.gif">
-
-### Video demo :- FREE VERSION
-
-[Youtube](https://youtu.be/2xW6TP4Yojg)
-
-
-### IMPORTANT if you want to purchase with GUI
-- This is just coded version with no GUI, i ggiven it to opensource ,but if you want to purchase a GUI version ,then go to here
-[STORE](https://www.instamojo.com/kushalbhavsar1820/e-musicplay-music-according-to-your-face-moo/)
-### Features of full GUI version
--  Full GUI (Tkinter)
--  Own developed Music player with all basic functionalities 
--  See here are some screenshots of full GUI version.
-
-###  Screenshots
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (34).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (35).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (36).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (37).png">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (38).png">
-
-###  This guy purchased this project from me and won prize in Zhejiang university of technology China
-###  Poster Presentation 
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china2.jpeg">
-<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china1.jpeg">
 
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
@@ -61,6 +20,3 @@
 - Download 300 Images for every expression(you can use batch downloader)
 - Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
-## [Demo video](https://youtu.be/YTIrGBOKRHY)
-## Buy this projects from here at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820/e-musicplay-music-according-to-your-face-moo/)
